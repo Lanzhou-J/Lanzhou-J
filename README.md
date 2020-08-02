@@ -4,15 +4,14 @@
 I am passionate about IT technology, especially software development. I think IT technology shaped the modern world that we live in.👩🏻‍💻
 
 ## What I know :computer:
-- **Competitive Programming**
-	- Python ❤️
-	- Ruby
-- **Frontend Development**
-	- HTML, CSS and Javascript :white_check_mark:
-	- Bootstrap
-	- React
 
-- 🌱 I’m currently learning Ruby, Javascript, Ruby on Rails and React.
+- Python ❤️
+- Ruby
+- HTML, CSS and Javascript :white_check_mark:
+- Bootstrap
+- React
+
+[![Lanzhou-J's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lanzhou-J&show_icons=true)](https://github.com/Lanzhou-J)
 
 <!--
 **Lanzhou-J/Lanzhou-J** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
