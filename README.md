@@ -6,8 +6,8 @@ I am passionate about IT technology, especially software development. I think IT
 ### What I know :computer:
 
 - Python ❤️
-- Ruby
-- HTML, CSS and Javascript :white_check_mark:
+- Ruby :white_check_mark:
+- HTML, CSS and Javascript 
 - Bootstrap
 - React
 
