@@ -11,7 +11,10 @@ I am passionate about IT technology, especially software development. I think IT
 - Bootstrap
 - React
 
-[![Lanzhou-J's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lanzhou-J&show_icons=true)](https://github.com/Lanzhou-J)
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lanzhou-J&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lanzhou-J&theme=buefy&layout=compact" />
+</a>
 
 <!--
 **Lanzhou-J/Lanzhou-J** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
