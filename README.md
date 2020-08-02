@@ -1,9 +1,9 @@
-### Hello, I'm Lanzhou. 👋
+## Hello, I'm Lanzhou. 👋
 
 ### About me 🎓
 I am passionate about IT technology, especially software development. I think IT technology shaped the modern world that we live in.👩🏻‍💻
 
-## What I know :computer:
+### What I know :computer:
 
 - Python ❤️
 - Ruby
