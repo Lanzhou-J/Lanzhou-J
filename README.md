@@ -6,14 +6,11 @@ I am passionate about IT technology, especially software development. I think IT
 ## What I know :computer:
 - **Competitive Programming**
 	- Python ❤️
-	- C++
-	- Some Java
+	- Ruby
 - **Frontend Development**
 	- HTML, CSS and Javascript :white_check_mark:
 	- Bootstrap
-	- React with Redux :electron:
-	- React Native
-
+	- React
 
 - 🌱 I’m currently learning Ruby, Javascript, Ruby on Rails and React.
 
