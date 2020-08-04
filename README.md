@@ -1,7 +1,7 @@
 ## Hello, I'm Lanzhou. 👋
 
 ### About me 🎓
-I am passionate about IT technology, especially software development. I think IT technology shaped the modern world that we live in.👩🏻‍💻
+I am passionate about IT technology, especially software development and data science.👩🏻‍💻
 
 ### What I know :computer:
 
