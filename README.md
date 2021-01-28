@@ -11,7 +11,7 @@ I am passionate about IT technology, especially software development and data sc
 - Bootstrap
 - React
 
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/Lanzhou-J">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lanzhou-J&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lanzhou-J&theme=buefy&layout=compact" />
 </a>
