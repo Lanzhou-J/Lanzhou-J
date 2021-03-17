@@ -1,7 +1,7 @@
 ## Hello, I'm Lanzhou. 👋
 
 ### About me 🎓
-I am passionate about IT technology, especially software development and data science.👩🏻‍💻
+I am an enthusiastic developer with a cell biology research background. I love challenging myself and learn new things!👩🏻‍💻
 
 ### What I know :computer:
 
