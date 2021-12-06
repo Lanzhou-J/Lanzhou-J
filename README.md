@@ -2,6 +2,8 @@
 
 ### About me 🎓
 Software developer with a passion for DevOps, mentoring & blogging.👩🏻‍💻
+- Portfolio website: https://lanzhoujiang.netlify.app/
+- Tech blog: https://lanzhou-j.github.io/
 
 ### What I know :computer:
 
@@ -11,9 +13,6 @@ Software developer with a passion for DevOps, mentoring & blogging.👩🏻‍�
 - HTML, CSS and Javascript 
 - Bootstrap
 - React
-
-- Portfolio website: https://lanzhoujiang.netlify.app/
-- Tech blog: https://lanzhou-j.github.io/
 
 <a href="https://github.com/Lanzhou-J">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lanzhou-J&theme=buefy&show_icons=true" />
