@@ -1,17 +1,19 @@
 ## Hello, I'm Lanzhou. 👋
 
 ### About me 🎓
-I am an enthusiastic developer with a cell biology research background. I love challenging myself and learn new things!👩🏻‍💻
+Software developer with a passion for DevOps, mentoring & blogging.👩🏻‍💻
 
 ### What I know :computer:
 
 - Python ❤️
 - Ruby :white_check_mark:
+- C#
 - HTML, CSS and Javascript 
 - Bootstrap
 - React
 
-个人博客：https://lanzhou-j.github.io/
+Portfolio website: https://lanzhoujiang.netlify.app/
+Tech blog: https://lanzhou-j.github.io/
 
 <a href="https://github.com/Lanzhou-J">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lanzhou-J&theme=buefy&show_icons=true" />
