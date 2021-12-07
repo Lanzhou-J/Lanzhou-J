@@ -2,8 +2,11 @@
 
 ### About me 🎓
 Software developer with a passion for DevOps, mentoring & blogging.👩🏻‍💻
+
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/lanzhou99) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/lanzhou-jiang-24151788/) [<img src ="https://img.shields.io/badge/Techblog-LZ-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://lanzhou-j.github.io/)  ![Visits Badge](https://badges.pufler.dev/visits/Lanzhou-J/Lanzhou-J?style=for-the-badge ) 
+
 - Portfolio website: https://lanzhoujiang.netlify.app/
-- Tech blog: https://lanzhou-j.github.io/
+
 
 ### What I know :computer:
 
