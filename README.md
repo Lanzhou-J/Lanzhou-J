@@ -5,23 +5,13 @@ Software developer with a passion for DevOps, mentoring & blogging.👩🏻‍�
 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/lanzhou99) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/lanzhou-jiang-24151788/) [<img src ="https://img.shields.io/badge/Techblog-LZ-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://lanzhou-j.github.io/) [<img src ="https://img.shields.io/badge/Portfolio·Website-LZ-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://lanzhoujiang.netlify.app/) ![Visits Badge](https://badges.pufler.dev/visits/Lanzhou-J/Lanzhou-J?style=for-the-badge )
 
-
-### What I know :computer:
-
-- Python ❤️
-- Ruby :white_check_mark:
-- C#
-- HTML, CSS and Javascript 
-- Bootstrap
-- React
-
 ### Languages and Tools 🛠 
 
 ![C#](https://img.shields.io/badge/C%23-404040?style=flat-square&logo=csharp)
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
 ![Ruby](https://img.shields.io/badge/-Ruby-black?style=flat-square&logo=Ruby&logoColor=red)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![TypeScript](https://img.shields.io/badge/Type_Script--FCA121?style=flat-square&logo=typescript)
+![TypeScript](https://img.shields.io/badge/Type_Script-2C2255?style=flat-square&logo=typescript)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
