@@ -19,6 +19,7 @@ Software developer with a passion for DevOps, mentoring & blogging.👩🏻‍�
 
 ![C#](https://img.shields.io/badge/C%23-404040?style=flat-square&logo=csharp)
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
+![Ruby](https://img.shields.io/badge/-Ruby-black?style=flat-square&logo=Ruby&logoColor=red)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![TypeScript](https://img.shields.io/badge/Type_Script--FCA121?style=flat-square&logo=typescript)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
