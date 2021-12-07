@@ -3,7 +3,7 @@
 ### About me 🎓
 Software developer with a passion for DevOps, mentoring & blogging.👩🏻‍💻
 
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/lanzhou99) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/lanzhou-jiang-24151788/) [<img src ="https://img.shields.io/badge/Techblog-LZ-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://lanzhou-j.github.io/) [<img src ="https://img.shields.io/badge/PortfolioWebsite-LZ-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://lanzhoujiang.netlify.app/) ![Visits Badge](https://badges.pufler.dev/visits/Lanzhou-J/Lanzhou-J?style=for-the-badge )
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/lanzhou99) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/lanzhou-jiang-24151788/) [<img src ="https://img.shields.io/badge/Techblog-LZ-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://lanzhou-j.github.io/) [<img src ="https://img.shields.io/badge/Portfolio·Website-LZ-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://lanzhoujiang.netlify.app/) ![Visits Badge](https://badges.pufler.dev/visits/Lanzhou-J/Lanzhou-J?style=for-the-badge )
 
 
 ### What I know :computer:
