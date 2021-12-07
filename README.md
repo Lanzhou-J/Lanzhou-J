@@ -18,17 +18,13 @@ Software developer with a passion for DevOps, mentoring & blogging.👩🏻‍�
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown)
-![####](https://img.shields.io/badge/-####-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
-![####](https://img.shields.io/badge/-####-CB3837?style=flat-square&logo=npm)
-![####](https://img.shields.io/badge/-####-FFCA28?style=flat-square&logo=firebase&logoColor=ffffff)
-![####](https://img.shields.io/badge/-####-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![####](https://img.shields.io/badge/-####-FCA121?style=flat-square&logo=gitlab)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
-![####](http://img.shields.io/badge/-####-2C2255?style=flat-square&logo=eclipse&logoColor=ffffff)
-![####](http://img.shields.io/badge/-####-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)
-![####](http://img.shields.io/badge/-####-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=Kubernetes)
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
+![linux](https://img.shields.io/badge/linux-f7f7f7?style=flat-square&logo=linux&logoColor=#FCC624) 
 
 <a href="https://github.com/Lanzhou-J">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lanzhou-J&theme=buefy&show_icons=true" />
