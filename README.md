@@ -17,7 +17,7 @@ Software developer with a passion for DevOps, mentoring & blogging.👩🏻‍�
 
 ### Languages and Tools 🛠 
 
-![C#](http://img.shields.io/badge/-C#-A8B9CC?style=flat-square&logo=c#&logoColor=ffffff)
+![C#](http://img.shields.io/badge/-C#-A8B9CC?style=flat-square&logo=csharp&logoColor=ffffff)
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
