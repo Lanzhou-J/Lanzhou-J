@@ -23,8 +23,8 @@ Software developer with a passion for DevOps, mentoring & blogging.👩🏻‍�
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Docker](https://img.shields.io/badge/-Docker-1E90FF?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=Kubernetes)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-%23F7DF1C?style=flat-square&logo=amazon-aws&logoColor=000000&labelColor=white&color=FF8C00)
-![Linux](https://img.shields.io/badge/Linux-FFD700?style=flat-square&logo=linux&logoColor=black&labelColor=white) 
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-%23F7DF1C?style=flat-square&logo=amazon-aws&logoColor=000000&labelColor=floralWhite&color=FF8C00)
+![Linux](https://img.shields.io/badge/Linux-FFD700?style=flat-square&logo=linux&logoColor=black&labelColor=floralWhite) 
 
 <a href="https://github.com/Lanzhou-J">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lanzhou-J&theme=buefy&show_icons=true" />
