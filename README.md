@@ -23,7 +23,7 @@ Software developer with a passion for DevOps, mentoring & blogging.👩🏻‍�
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Docker](https://img.shields.io/badge/-Docker-1E90FF?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=Kubernetes)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-%23F7DF1C?style=flat-square&logo=amazon-aws&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-%23F7DF1C?style=flat-square&logo=amazon-aws&logoColor=000000&labelColor=%23F7DF1C&color=DarkOrange)
 ![Linux](https://img.shields.io/badge/Linux-191970?style=flat-square&logo=linux&logoColor=#FCC624) 
 
 <a href="https://github.com/Lanzhou-J">
