@@ -3,9 +3,9 @@
 ### About me 🎓
 Software developer with a passion for DevOps, mentoring & blogging.👩🏻‍💻
 
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/lanzhou99) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/lanzhou-jiang-24151788/) [<img src ="https://img.shields.io/badge/Techblog-LZ-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://lanzhou-j.github.io/) [<img src ="https://img.shields.io/badge/Portfolio·Website-LZ-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://lanzhoujiang.netlify.app/) ![Visits Badge](https://badges.pufler.dev/visits/Lanzhou-J/Lanzhou-J?style=for-the-badge )
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/lanzhou99) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/lanzhou-jiang-24151788/) [<img src ="https://img.shields.io/badge/Techblog-LZ-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://lanzhou-j.github.io/) [<img src ="https://img.shields.io/badge/Portfolio·Website-LZ-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://lanzhoujiang.netlify.app/)
 
-### Languages and Tools 🛠 
+### Languages and Tools 🛠
 
 ![C#](https://img.shields.io/badge/C%23-006400?style=flat-square&logo=csharp)
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
@@ -35,7 +35,7 @@ Software developer with a passion for DevOps, mentoring & blogging.👩🏻‍�
 **Lanzhou-J/Lanzhou-J** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-- 🔭 I’m currently working on 
+- 🔭 I’m currently working on
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
